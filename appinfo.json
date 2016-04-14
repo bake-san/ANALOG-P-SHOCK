@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bake-san",
+    "enableMultiJS": false,
+    "longName": "Analog P-SHOCK",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Analog P-SHOCK",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "269ea21c-937e-428e-904b-987d320102ac",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
